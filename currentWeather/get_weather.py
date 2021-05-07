@@ -20,5 +20,6 @@ def get_weather(city, API_KEY=key):
         print(key,':', value)
 
 
+
 if __name__ == "__main__":
-    print(city)
+    get_weather(city)
