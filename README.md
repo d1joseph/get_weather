@@ -1,2 +1,2 @@
-# get_weather
-Simply python examples to make calls to the openweather API.
+# Make calls to the openweatherAPI
+Simple python examples to make calls to the openweather API.
