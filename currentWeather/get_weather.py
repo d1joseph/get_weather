@@ -2,10 +2,9 @@
 # This project uses the Current Weather Data service.
 # Current Weather Documentation - https://openweathermap.org/current
 import requests as r
-import json
 
-# My API key
-key = 'f09a88a1c65a34bdf1c018fd54cc876e'
+# API key - you'll need your own API key from openweather. Sign up is free.
+key = 'your key'
 city = str(input('Enter a city: ')).lower()
 
 
